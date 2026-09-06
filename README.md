@@ -29,4 +29,4 @@ The program covers Excel, SQL, Python, data visualization, and Generative AI too
 `Python` `SQL` `Excel` `IBM Cognos Analytics` `Jupyter Notebook` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ## Connect
-Feel free to check out my [[LinkedIn](www.linkedin.com/in/waniya-mustafa-b6708a264)] or reach out if you'd like to discuss any of these projects.
+Feel free to check out my [[LinkedIn]((https://www.linkedin.com/in/waniya-mustafa-b6708a264/))] or reach out if you'd like to discuss any of these projects.
