@@ -2,7 +2,7 @@
 
 This repository contains my coursework and hands-on projects completed as part of the **[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)** on Coursera — an 11-course program covering the full data analysis workflow.
 
-🏆 **Certificate:** [[Add your Coursera certificate link here](https://coursera.org/share/721fe9f498066b3332d33a4d5efa01d7)]
+🏆 **Certificate:** [[IBM Data Analyst](https://coursera.org/share/721fe9f498066b3332d33a4d5efa01d7)]
 
 ## About the Program
 The program covers Excel, SQL, Python, data visualization, and Generative AI tools for data analytics, culminating in a capstone project using real-world data.
@@ -29,4 +29,4 @@ The program covers Excel, SQL, Python, data visualization, and Generative AI too
 `Python` `SQL` `Excel` `IBM Cognos Analytics` `Jupyter Notebook` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ## Connect
-Feel free to check out my [LinkedIn](www.linkedin.com/in/waniya-mustafa-b6708a264) or reach out if you'd like to discuss any of these projects.
+Feel free to check out my [[LinkedIn](www.linkedin.com/in/waniya-mustafa-b6708a264)] or reach out if you'd like to discuss any of these projects.
