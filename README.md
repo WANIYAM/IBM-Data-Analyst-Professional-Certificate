@@ -8,17 +8,17 @@ This repository documents my completion of the **[IBM Data Analyst Professional 
 
 | # | Course | Certificate |
 |---|--------|-------------|
-| 1 | Introduction to Data Analytics | [Link](https://coursera.org/share/9da9b6da346fa56defdf35ba1ce37531) |
-| 2 | Excel Basics for Data Analysis | [Link](https://coursera.org/share/2195a0a82cbea310ba2bfe4ecfd72f38) |
-| 3 | Data Visualization and Dashboards with Excel and Cognos | [Link](https://coursera.org/share/51784239a3ee787ec96004de1c2df3ef) |
-| 4 | Python for Data Science, AI & Development | [Link](https://coursera.org/share/fc9f508c68343cbaecd9625e9eab8081) |
-| 5 | Python Project for Data Science | [Link](https://coursera.org/share/4cc860a3b5dff3c2210ff8df15d54d29) |
-| 6 | Databases and SQL for Data Science with Python | [Link](https://coursera.org/share/4caf920d076a7e4d335b96b40264a819) |
-| 7 | Data Analysis with Python | [Link](https://coursera.org/share/a5bdee65e3491a42f3ca758be5f2ff39) |
-| 8 | Data Visualization with Python | [Link](https://coursera.org/share/8b65a3f5e0049c3dee11bf5f066ad626) |
-| 9 | IBM Data Analyst Capstone Project | [Link](https://coursera.org/share/c04021df6374fdc11fc4006834afa46f) |
-| 10 | Generative AI: Enhance your Data Analytics Career | [Link](https://coursera.org/share/3a49414b463ccd166d1e1e02a9a71a20) |
-| 11 | Data Analyst Career Guide and Interview Preparation | [Link](https://coursera.org/share/901475d5eb23441c96ea478a05d7f6f0) |
+| 1 | Introduction to Data Analytics | [Link](https://coursera.org/share/12a82835dc2f40bbea26e074eaf95188) |
+| 2 | Excel Basics for Data Analysis | [Link](https://coursera.org/share/cb0f24f9e202bec5f6feadaf6ff36271) |
+| 3 | Data Visualization and Dashboards with Excel and Cognos | [Link](https://coursera.org/share/ab3a77692f4b7324843ebd1c8ae46410) |
+| 4 | Python for Data Science, AI & Development | [Link](https://coursera.org/share/78d85116369f44a819f01633f2f01d9f) |
+| 5 | Python Project for Data Science | [Link](https://coursera.org/share/735aff797cf0b566d697aa39fa0abcbd) |
+| 6 | Databases and SQL for Data Science with Python | [Link](https://coursera.org/share/1b6aaa3d536916906ed764057a3cdc88) |
+| 7 | Data Analysis with Python | [Link](https://coursera.org/share/8a720b8e88aa3f0f0c51ef99d07cf725) |
+| 8 | Data Visualization with Python | [Link](https://coursera.org/share/043160445c51968398f4df5a62d091e8) |
+| 9 | IBM Data Analyst Capstone Project | [Link](https://coursera.org/share/4bc8f997379d42171d2dd9e219f69b21) |
+| 10 | Generative AI: Enhance your Data Analytics Career | [Link](https://coursera.org/share/b36ef059035112357aa422a888a8b7b9) |
+| 11 | Data Analyst Career Guide and Interview Preparation | [Link](https://coursera.org/share/9261c6440b9cdd2f53bfde9383b2e10f) |
 
 ## Skills Gained
 `Python` `SQL` `Excel` `IBM Cognos Analytics` `Data Visualization` `Data Cleaning` `Pandas` `NumPy` `Generative AI for Analytics`
